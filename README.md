@@ -4,7 +4,7 @@
 ## Group #20
 ### Members: 
 #### Arif Yildirim (ary62@pitt.edu)
-#### Aidan McHugh (mds143@pitt.edu)
+#### Matthew Demssie (msd143@pitt.edu)
 
 ## Data Sets Used:
 ### - Arrest Reports: "https://data.wprdc.org/datastore/dump/e419c20c-8df4-4729-830c-e49427a656e0"
